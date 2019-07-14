@@ -14,3 +14,5 @@
 <p><a href="https://www.w3resource.com/csharp-exercises/basic/index.php" rel="nofollow">https://www.w3resource.com/csharp-exercises/basic/index.php</a></p>
 </li>
 </ul>
+<p>Dərsdə işlədiyimiz yuxarıda var</p>
+<i>Uğurlar</i>
